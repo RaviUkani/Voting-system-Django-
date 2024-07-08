@@ -1,0 +1,7 @@
+/db.sqlite3
+/manage.py
+/mysite/__pycache__/
+/mysite/asgi.py
+/mysite/wsgi.py
+__pycache__/
+migrations/
