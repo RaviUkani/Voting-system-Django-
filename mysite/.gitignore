@@ -1,0 +1,6 @@
+db.sqlite3
+mysite/__pycache__/
+mysite/asgi.py
+mysite/wsgi.py
+polls/__pycache__/
+polls/migrations/
